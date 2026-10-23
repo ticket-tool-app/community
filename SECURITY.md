@@ -9,8 +9,8 @@ currently live at `ticket-tool.app`, `dash.ticket-tool.app` and
 Report it privately rather than opening a public issue. Either:
 
 - Use the **Report a vulnerability** button on the
-  [Security tab](https://github.com/Ticket-Tool-App/ticket-tool/security), or
-- Email [support@ticket-tool.app](mailto:support@ticket-tool.app) with
+  [Security tab](https://github.com/ticket-tool-app/community/security), or
+- Email [security@ticket-tool.app](mailto:security@ticket-tool.app) with
   `SECURITY` in the subject.
 
 Tell us what the problem is, which part it affects (bot, dashboard, API, or a
