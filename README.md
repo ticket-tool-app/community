@@ -5,9 +5,9 @@
   <br>
   Discord ticket bot with web dashboard, visual flow builder, custom categories, automation, and transcripts.
   <br><br>
-  <a href="https://discord.com/oauth2/authorize?client_id=1506999581722804274"><img src="https://img.shields.io/badge/Add%20to%20Discord-5865F2?logo=discord&logoColor=white" alt="Add to Discord"></a>
+  <a href="https://ticket-tool.app/invite?src=github"><img src="https://img.shields.io/badge/Add%20to%20Discord-5865F2?logo=discord&logoColor=white" alt="Add to Discord"></a>
   <a href="https://ticket-tool.app/docs"><img src="https://img.shields.io/badge/Docs-ticket--tool.app-0b0b0b" alt="Documentation"></a>
-  <a href="https://ticket-tool.app/discord"><img src="https://img.shields.io/badge/Support-Discord-5865F2?logo=discord&logoColor=white" alt="Support server"></a>
+  <a href="https://ticket-tool.app/discord?src=github"><img src="https://img.shields.io/badge/Support-Discord-5865F2?logo=discord&logoColor=white" alt="Support server"></a>
   <br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white" alt="Discord.js">
@@ -47,7 +47,7 @@ Plans run from Free through Community, Pro, Team, and Enterprise. The [pricing p
 
 ## Getting started
 
-1. [Add the bot](https://discord.com/oauth2/authorize?client_id=1506999581722804274) to your server. You need Administrator or Manage Server permission.
+1. [Add the bot](https://ticket-tool.app/invite?src=github) to your server. You need Administrator or Manage Server permission.
 2. Run `/setup` in Discord. The wizard asks for a staff role, a Discord category for ticket channels, a channel for the panel, and your first ticket category.
 3. Click the button on the posted panel to open a test ticket and check that staff can see it.
 
@@ -59,7 +59,7 @@ Full walkthrough: [Quick Start](https://ticket-tool.app/docs/getting-started/qui
 
 | For | Go to |
 | --- | --- |
-| Questions and setup help | [Support server](https://ticket-tool.app/discord) or [ticket-tool.app/support](https://ticket-tool.app/support) |
+| Questions and setup help | [Support server](https://ticket-tool.app/discord?src=github) or [ticket-tool.app/support](https://ticket-tool.app/support) |
 | Bug reports and feature requests | [Open an issue](https://github.com/ticket-tool-app/community/issues) |
 | Security vulnerabilities | [SECURITY.md](SECURITY.md). Do not open a public issue. |
 | Billing and account | [support@ticket-tool.app](mailto:support@ticket-tool.app) |
@@ -71,7 +71,7 @@ This is the public repository for Ticket Tool. It holds the issue tracker, the s
 
 ## Links
 
-[Website](https://ticket-tool.app) · [Documentation](https://ticket-tool.app/docs) · [Discord](https://ticket-tool.app/discord) · [X](https://x.com/TicketTool11285) · [YouTube](https://www.youtube.com/@TicketTool-App)
+[Website](https://ticket-tool.app) · [Documentation](https://ticket-tool.app/docs) · [Discord](https://ticket-tool.app/discord?src=github) · [X](https://x.com/TicketTool11285) · [YouTube](https://www.youtube.com/@TicketTool-App)
 
 ## License
 
